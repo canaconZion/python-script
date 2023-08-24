@@ -1,2 +1,21 @@
 # python-script
-python scripts
+一些日常工作中写的脚本，帮助提高工作效率，减少重复性的工作
+## file_handing
+> 文件处理相关的脚本
+- find_file 寻找文件名中包含指定字段的文件
+- rename_file 批量化重命名文件
+- txt_into_xls txt文件内容写入表格
+## media
+> 音视频相关的脚本
+- generate_key 生成aes加密key
+- get_video_msg 获取视频信息
+
+## net
+> 网络相关的脚本
+- request_web 获取网页相关信息
+
+## tools
+> 工具
+- send_email 发送邮件
+- log_module 日志生成
+- run_command 调用linux命令行

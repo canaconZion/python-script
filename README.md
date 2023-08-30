@@ -12,7 +12,8 @@
 
 ## net
 > 网络相关的脚本
-- request_web 获取网页相关信息
+- request_web http接口请求
+- fast_api_example http接口创建
 
 ## tools
 > 工具

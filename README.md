@@ -15,6 +15,11 @@
 - request_web http接口请求
 - fast_api_example http接口创建
 
+## sqlite3
+> sqlite3相关的脚本
+- db_to_excel 数据库内容转入excel
+- insert_to_db 数据库插入数据
+- statistics 统计数据库数据条目
 ## tools
 > 工具
 - send_email 发送邮件

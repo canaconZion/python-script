@@ -19,6 +19,7 @@
 > sqlite3相关的脚本
 - db_to_excel 数据库内容转入excel
 - insert_to_db 数据库插入数据
+- lookup_data 查询数据库中是否存在某条数据
 - statistics 统计数据库数据条目
 ## tools
 > 工具

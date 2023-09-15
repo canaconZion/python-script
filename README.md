@@ -1,4 +1,7 @@
 # python-script
+![Github stars](https://img.shields.io/github/stars/canaconZion/python-script.svg) [![](https://img.shields.io/badge/main-python_script-blue)](https://github.com/canaconZion/push-streaming) 
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/canaconZion/python-script)
+>
 一些日常工作中写的脚本，帮助提高工作效率，减少重复性的工作
 ## file_handing
 > 文件处理相关的脚本

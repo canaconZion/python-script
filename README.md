@@ -8,6 +8,7 @@
 - find_file 寻找文件名中包含指定字段的文件
 - rename_file 批量化重命名文件
 - txt_into_xls txt文件内容写入表格
+- network_analysis 解析sar生成文本中网络状态信息，生成折线图
 ## media
 > 音视频相关的脚本
 - generate_key 生成aes加密key

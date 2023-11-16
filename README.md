@@ -17,6 +17,7 @@
 > 网络相关的脚本
 - request_web http接口请求
 - fast_api_example http接口创建
+- web_drive 浏览器操作(需要下载浏览器驱动)
 
 ## sqlite3
 > sqlite3相关的脚本

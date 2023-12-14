@@ -31,3 +31,4 @@
 - send_email 发送邮件
 - log_module 日志生成
 - run_command 调用linux命令行
+- generate_qr_code 生成二维码

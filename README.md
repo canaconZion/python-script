@@ -26,6 +26,7 @@
 - insert_to_db 数据库插入数据
 - lookup_data 查询数据库中是否存在某条数据
 - statistics 统计数据库数据条目
+- db_operation mysql数据库操作
 ## tools
 > 工具
 - send_email 发送邮件
